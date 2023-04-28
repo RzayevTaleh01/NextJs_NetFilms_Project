@@ -14,7 +14,6 @@ export default function Header() {
                 <Link href='/'>Movies</Link>
                 <Link href='/'>Series</Link>
                 <Link href='/'>Kids</Link>
-
             </nav>
         </div>
     </header>
